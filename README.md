@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Path-of-Exile-Build-Manager` · Updated: 2026-10-07
+`Path-of-Exile-Build-Manager` · Updated: 2026-10-24
 
 **Tags:** `path-of-exile` `build-planner` `arpg` `poe` `passive-tree`
